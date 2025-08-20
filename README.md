@@ -1,8 +1,10 @@
 🌟 Skill Lens AI
+
 🚀 AI-powered platform to analyze, visualize, and recommend skills for individuals & teams.
 Helps identify skill gaps, track growth, and optimize talent development strategies for organizations or personal advancement.
 
 <p align="center"> <img src="https://img.icons8.com/color/452/artificial-intelligence.png" width="120" /> </p>
+
 📌 Table of Contents
 
 ✨ Features
@@ -34,18 +36,14 @@ Helps identify skill gaps, track growth, and optimize talent development strateg
 🛠️ Tech Stack
 
 Backend: 🐍 Python, ⚡ FastAPI
-
 Frontend: ⚛️ React, JavaScript
-
 AI/ML: 🤖 scikit-learn, TensorFlow / PyTorch
-
 Database: 🐘 PostgreSQL
-
 Visualization: 📈 Plotly, D3.js
-
 Others: 🐳 Docker, 🤖 GitHub Actions (CI/CD)
 
 ⚡ Getting Started
+
 🔑 Prerequisites
 
 Python 3.8+
@@ -57,27 +55,34 @@ PostgreSQL
 Docker (optional for deployment)
 
 📥 Clone Repository
+
 git clone https://github.com/Manishsec/Skill-Lens-AI.git
 cd Skill-Lens-AI
 
+
 ⚙️ Backend Setup
+
 cd backend
 pip install -r requirements.txt
 # Setup env variables from backend/.env.example
 uvicorn main:app --reload
 
+
 🎨 Frontend Setup
+
 cd frontend
 npm install
 npm start
 
+
 🗄️ Database Setup
 
-Create a PostgreSQL database.
+Create a PostgreSQL database
 
-Update connection settings inside backend/.env.
+Update connection settings inside backend/.env
 
 🐳 Docker Deployment (Optional)
+
 docker-compose up --build
 
 🎯 Usage
@@ -116,24 +121,18 @@ We 💙 contributions!
 
 🔄 Submit a Pull Request
 
-See CONTRIBUTING.md
- for guidelines.
+See CONTRIBUTING.md for guidelines.
 
 📜 License
 
 📖 Licensed under the MIT License – see LICENSE
-.
 
 📧 Contact
 
 👤 Maintainer: Manishsec
-
 🐞 Issues: GitHub Issues
-
 📩 Email: YourEmail@example.com
 
 🙌 Acknowledgements
-
 💡 Inspired by OpenAI models
-
 👏 Thanks to contributors & testers

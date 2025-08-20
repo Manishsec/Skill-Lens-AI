@@ -1,5 +1,4 @@
 🌟 Skill Lens AI
-
 🚀 AI-powered platform to analyze, visualize, and recommend skills for individuals & teams.
 Helps identify skill gaps, track growth, and optimize talent development strategies for organizations or personal advancement.
 
